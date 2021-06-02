@@ -9,14 +9,14 @@
 </head>
 
 <body>
-    <a href="formMahasiswa.php">Tambah Data</a>
+    <a href="formMahasiswa.php">INPUT DATA </a>
     <table border="1">
         <tr>
             <th align="center">No</th>
-            <th>Nama</th>
-            <th>harga</th>
-            <th>kategori</th>
-            <th>deskripsi</th>
+            <th>Name</th>
+            <th>price</th>
+            <th>karakter</th>
+            <th>Opsi</th>
             <th>stok</th>
             
 <th>Password</th>
